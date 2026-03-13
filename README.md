@@ -47,6 +47,7 @@ A alimentação torna o dispositivo portátil e é montada da seguinte forma:
 
 ## Imagens do Dispositivo
 
-![Dispositivo 1](img/device1.png)
-
-![Dispositivo 2](img/device2.png)
+<p align="center">
+  <img src="img/device1.png" width="45%" alt="Demonstração 1 do Dispositivo">
+  <img src="img/device2.png" width="45%" alt="Demonstração 2 do Dispositivo">
+</p>
