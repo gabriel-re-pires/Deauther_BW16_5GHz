@@ -1,4 +1,4 @@
-# Deauther 5GHz Com BW16
+# Deauther 5GHz com BW16
 
 Dispositivo desenvolvido para auditoria e testes de ataques em redes Wi-Fi de 5GHz e 2.4GHz, projetado estritamente para uso em ambientes controlados.
 
